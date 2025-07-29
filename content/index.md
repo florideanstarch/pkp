@@ -8,4 +8,4 @@ We thought of occupying this cyberspace to try and pick apart complicated biomol
 
 Most of the times, you can find us banging our heads against the keyboard while relentlessly working with data that someone wearing a labcoat generated with a pipette in hand, only to produce results that take us back to pipettes.
 
-To get started, read [here](/content/state.md).
+To get started, read [[state.md|here]].
