@@ -22,7 +22,11 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) =>
+        !["about", "index"].includes(page.fileData.slug ?? ""),
+    }),
     Component.TagList(),
   ],
   left: [

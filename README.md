@@ -1,18 +1,17 @@
-# Quartz v4
+# PKP
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A personal blog on musings of two humans under the influence of LLMs and biology.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+In a new Github Codespace (for an intialized repo) check that the latest `npm` is being used with `npm --version` (`node --version` should also be >22.0). Get the latest version of `npm` from `npm install -g npm@latest`.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Some useful commands:
+- Check the page locally: `npx quartz build --serve`
+- Publish to Github Pages: `npx quartz sync`
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+A `deploy.yml` rests in the `.github/workflows/` directory. This is has all the configuration for Github Pages. 
 
-## Sponsors
+Don't forget to enable Github Actions in Settings > Pages > Build and deployment. 
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Also, set Settings > Actions > Workflow Permissions to "Read and Write" and check the "Allow Github Actions to create and approve pull requests" box.
+
+We have used [Quartz](https://quartz.jzhao.xyz/) to make this blog. Thanks Jacky Zhao!
