@@ -2,10 +2,10 @@
 title: Welcome to Pipettes Keyboards Pipettes!
 ---
 
-Musings of two humans under the influence of LLMs, Biology, and Hyderabad's startup scene.
+Musings of two humans under the influence of LLMs, Biology, and Hyderabad's nonexistent startup scene.
 
 We thought of occupying this cyberspace to try and pick apart complicated biomolecular computational tools. This is an attempt to provide perhaps "useful" nuggets from our work.
 
-Most of the time, you can find us with a keyboard relentlessly working with data that someone not wearing a labcoat but with a pipette in their hand, only to produce results that take us back to pipettes.
+Most of the time, you can find us with a keyboard relentlessly trying to figure make sense of data that someone _not_ wearing a labcoat and with a pipette in their hand had came up with, only to produce results that take us back to pipettes.
 
-To get started, read [[state.md|here]].
+To get started, read [[state.md|here]]. To know more about who we are, check [[about.md|this]] out.
