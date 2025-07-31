@@ -10,7 +10,7 @@ Then run `npm i`.
 
 Now you can:
 - Check the page locally: `npx quartz build --serve`, or
-- Publish it Github Pages: `npx quartz sync`
+- Publish it on Github Pages: `npx quartz sync`
 
 A `deploy.yml` rests in the `.github/workflows/` directory. This is has all the configuration for Github Pages. 
 
