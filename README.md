@@ -14,4 +14,6 @@ Don't forget to enable Github Actions in Settings > Pages > Build and deployment
 
 Also, set Settings > Actions > Workflow Permissions to "Read and Write" and check the "Allow Github Actions to create and approve pull requests" box.
 
-We have used [Quartz](https://quartz.jzhao.xyz/) to make this blog. Thanks Jacky Zhao!
+We have used [Quartz](https://quartz.jzhao.xyz/) to make this this work. Thanks Jacky Zhao!
+
+Check out the blog [here](https://florideanstarch.github.io/pkp/).
