@@ -1,6 +1,7 @@
 ---
 title: STATE d'Affaires
 authors: Deepak, Satya
+draft: true
 ---
 
 ## Present State
