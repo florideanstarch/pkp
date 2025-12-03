@@ -6,9 +6,9 @@ draft: true
 
 We met someone at office day.
 
-They transitioned from Physics to Bioinformatics. Moved from a South India to Cambridge for Post-doc. It is their first job after PDF at Cambridge.
+They transitioned from physics to bioinformatics and moved from South India to Cambridge for a post-doc. This is their first job after a PDF at Cambridge.
 
-Mainly they have worked on DDX1 biology and myeloid leukemia/blood disorder/clonal hematopoiesis.
+They have mainly worked on DDX1 biology and on myeloid leukemia, blood disorders, and clonal hematopoiesis.
 
-They said their most interesting work is going to be out soon. It is about telomere length, genomics and ML.
+They said their most interesting work will be published soon; it concerns telomere length, genomics, and machine learning.
 
