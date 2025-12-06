@@ -33,6 +33,8 @@ Legend:
 - 🎥 [Math for GenAI, IIT-M](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu)
 - 🎥 [Understand KDE](https://www.youtube.com/watch?v=6sGOMbC5xdE)
 - 🎥 [Deep Dive into KL Divergence and Cross-entropy](https://www.youtube.com/watch?v=KHVR587oW8I&t=10s)
+- 📕 [The Hundred Page ML Book](https://gzai.in/wp-content/uploads/2025/07/the-hundred-page-machine-learning-book_compress.pdf): Math fundamentals for ML explained in 100 pages
+- 📕 [The Hundred Page Language Model Book](https://gzai.in/wp-content/uploads/2025/07/the-hundred-page-machine-learning-book_compress.pdf): Math fundamentals for LLMs explained in 100 pages
 
 
 ## Dimensionality Reduction
@@ -58,6 +60,7 @@ Legend:
 - ⛺️⚙️ [Scikit-Learn Docs](https://scikit-learn.org/stable/)
 - ⛺️⚙️ [NumPy and Broadcasting](https://numpy.org/doc/stable/user/basics.html)
 - ⛺️📕 Agan-AI-ML-Guide
+- 📝 [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 
 ## DL 
@@ -82,6 +85,7 @@ Legend:
 - 🎥 [DL, IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM)
 - ⛺️🎥 [3Blue1Brown, NN](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - 📕🎥💻 [fast.ai](https://course.fast.ai/)
+- 📕 [Little Book of DL, Flueret](https://fleuret.org/public/lbdl.pdf)
 - DL in Biology
     - 🎥💻 [Build AlphaFold from Scratch](https://www.youtube.com/watch?v=NSvp7RFegEs&list=PLJ0WcPQS7xJVJr6ceIPFSkAGAgrkmw1c9)
     - 🎥 [DL in Life Sciences, Kellis](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX)
@@ -112,6 +116,18 @@ Legend:
     - ⛺️📝💻 [Akash Kumar Nain, DDPMs](https://github.com/AakashKumarNain/diffusion_models)
     - ⛺️🎥 Agan-TFD-DDPMs-Session
 
+## LLMs
+- 🎥📕 [LLMs from Scratch, Raschka](https://www.youtube.com/watch?v=yAcWnfsZhzo&list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+- 🎥📕 [DeepSeek from Scratch, Vizuara](https://www.youtube.com/watch?v=QWNxQIq0hMo&list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
+
+## Agents 
+(To be added) ⚠️⚠️
+- [BAML](https://boundaryml.com/)
+- [Claude Docs](https://platform.claude.com/docs/en/home): Manish's Recommendations
+- Google Blogs 
+- ⚙️ [ADK by Google](https://google.github.io/adk-docs/)
+- [Google GenAI with GCP Course](https://cloud.google.com/learn/training/machinelearning-ai) 
+
 
 ## MLOps
 - ⛺️🎥💻 [ClearML](https://www.youtube.com/watch?v=U7n9qXIBxEg)
@@ -121,6 +137,11 @@ Legend:
 - 📝 [Serverless ML](https://www.serverless-ml.org/blog/what-is-serverless-machine-learning)
 - Databricks (to be added) ⚠️⚠️
 - MLflow (to be added) ⚠️⚠️
+
+
+## Cloud and Infra
+(To be added) ⚠️⚠️
+- [Skillbuilder by AWS, Cloud for ML](http://skillbuilder.aws/category/role/machine-learning-engineer)
 
 
 ## Misc.
