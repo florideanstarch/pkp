@@ -47,8 +47,7 @@ Legend:
 - ⛺️🎥[Diffusion Maps, Smita Krishnaswamy](https://www.youtube.com/watch?v=pevW0L-TEbg)
 - ⛺️🎥 [Meaningful 2D Visualizations of Biological Data, Patcher](https://www.youtube.com/watch?v=zg6vBHYMoKo)
 - ⛺️🎥 [KNN for dimensionality reduction, a primer from Broad](https://www.youtube.com/watch?v=FlFYa79D4dc&t=4s)
-- UMAP (to be added) ⚠️⚠️
-
+- 📝 [UMAP's from a Google Team](https://pair-code.github.io/understanding-umap/)
 
 
 ## ML
@@ -83,6 +82,8 @@ Legend:
 - 🎥💻 [Karpathy, NN:Zero-To-Hero)](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - 🎥 [LLMs, IIT-M](https://youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo) 
 - 🎥 [DL, IIT-M](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM)
+- 🎥📝 [Srijeet Mukherjee's DL Videos](https://www.srijitmukherjee.com/): Follows UDL, 'Loy recommends
+- 🎥 [Hands on ML, MIT Sloan by Rama Ramakrishnan](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/): 'Loy Follows
 - ⛺️🎥 [3Blue1Brown, NN](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - 📕🎥💻 [fast.ai](https://course.fast.ai/)
 - 📕 [Little Book of DL, Flueret](https://fleuret.org/public/lbdl.pdf)
@@ -116,32 +117,35 @@ Legend:
     - ⛺️📝💻 [Akash Kumar Nain, DDPMs](https://github.com/AakashKumarNain/diffusion_models)
     - ⛺️🎥 Agan-TFD-DDPMs-Session
 
+
 ## LLMs
 - 🎥📕 [LLMs from Scratch, Raschka](https://www.youtube.com/watch?v=yAcWnfsZhzo&list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 - 🎥📕 [DeepSeek from Scratch, Vizuara](https://www.youtube.com/watch?v=QWNxQIq0hMo&list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
 
+
 ## Agents 
-(To be added) ⚠️⚠️
+(Add more stuff here) ⚠️⚠️
 - [BAML](https://boundaryml.com/)
-- [Claude Docs](https://platform.claude.com/docs/en/home): Manish's Recommendations
+- [Claude Docs](https://platform.claude.com/docs/en/home): Manish's recommendation
 - Google Blogs 
 - ⚙️ [ADK by Google](https://google.github.io/adk-docs/)
 - [Google GenAI with GCP Course](https://cloud.google.com/learn/training/machinelearning-ai) 
 
 
 ## MLOps
-- ⛺️🎥💻 [ClearML](https://www.youtube.com/watch?v=U7n9qXIBxEg)
+- ⛺️🎥💻 [ClearML Simple and Official Guide](https://www.youtube.com/watch?v=U7n9qXIBxEg)
 - ⛺️📝 [CMU MLOps Guide](https://mlip-cmu.github.io/book/index.html)
 - 🎥 [MLOps Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
 - 📕💻 [Goku Mohandas' MLOps Course](https://madewithml.com/) 
 - 📝 [Serverless ML](https://www.serverless-ml.org/blog/what-is-serverless-machine-learning)
+- 📕 [ML Systems Book, Harvard](https://mlsysbook.ai/book/)
 - Databricks (to be added) ⚠️⚠️
 - MLflow (to be added) ⚠️⚠️
 
 
 ## Cloud and Infra
-(To be added) ⚠️⚠️
 - [Skillbuilder by AWS, Cloud for ML](http://skillbuilder.aws/category/role/machine-learning-engineer)
+- [Cloud for ML Roadmap in 6 Skills](https://drive.google.com/file/d/110HKX8iTssUOXH7XORe4BEGjL2WjIjaU/view?usp=drive_link) - An Instagrammer's Guide to Cloud
 
 
 ## Misc.
@@ -165,10 +169,20 @@ Legend:
 - 💻 [AI/ML iQs](https://github.com/TidorP/MLJobSearch2025)
 - 💻 [Leetcode-like site for ML/DL](https://www.deep-ml.com/)
 - 💻 [Galaxy Training: Stats and ML](https://training.galaxyproject.org/training-material/topics/statistics/)
+- 🎥 [Simon Price - Author of UDL: Podcast on DL](https://www.youtube.com/watch?v=sJXn4Cl4oww)
+- 📝 [Visual ML/DL Tools for Understanding](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
+- 🎥 [IIT Intro to ML (Ol' School)](https://www.youtube.com/watch?v=T3PsRW6wZSY&list=PLIg1dOXc_acbdJo-AE5RXpIM_rvwrerwR): Dry, 'Loy followed it back in the day.
+- 📝 [List of all DL/ML Courses from Stanford](https://drive.google.com/file/d/14m8qsH5n6Qcr0JXKbJb1X4VvbWI7eMJR/view?usp=sharing)
+- 📝 [DSA Sheets](https://takeuforward.org/)
+- 🎥 [Beginner-friendly DSA](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-): Arghya's recommendation
+- 📝 [Hands-on Linux Inerts](https://serversfor.dev/linux-inside-out/)
+- 📝 [Visualise ML Papers](https://envision.page/)
+- 📝 [Rama Ramakrishnan from MIT Sloan on DL](https://rama100.github.io/posts/)
+- 📝 [DeepIntoDev](https://www.deepintodev.com/): Lucid explanantions for software and basic CS stuff (for eg. OSI model)
 
 
 ---
 
+
 To Do:
-- Should add Andrew Ng's courses
-- Clean up notes on the drive
+- Clean up notes, post on the Github 
