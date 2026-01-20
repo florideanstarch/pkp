@@ -4,7 +4,7 @@ authors: Deepak, Satya
 draft: false
 ---
 
-![Alt-text](state-comic.png)
+![Alt-text](/static/blogs/state-comic.png)
 
 ## Present State
 
