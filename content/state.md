@@ -1,7 +1,6 @@
 ---
 title: STATE d'Affaires
 authors: Deepak, Satya
-draft: false
 ---
 
 ![Alt-text](/static/blogs/state-comic.png)
@@ -24,6 +23,7 @@ Now, how accurate those predictions are and what can be done to improve the meth
 
 We tried to understand and run the model from an end-user's perspective, while breaking our head on the the keyboard. Here is a simplified workflow (using an example dataset from the authors):
 
+
 ```mermaid
 graph TD
     X[anndata.h5ad]
@@ -35,7 +35,6 @@ graph TD
     2k_hvg_anndata.h5ad vs. perturbed_anndata.h5ad]
     D --> E[Output: DEG CSVs]
 ```
-
 
 ## Resources we used
 

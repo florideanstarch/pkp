@@ -1,6 +1,6 @@
 ---
 title: RSAD1
-authors: Deepak, Satya
+authors: Satya
 draft: true
 ---
 
