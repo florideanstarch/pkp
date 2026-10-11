@@ -1,6 +1,6 @@
 # PKP
 
-A personal blog on musings of two humans under the influence of LLMs and biology.
+A personal blog on musings of a human under the influence of LLMs and biology.
 
 In a new Github Codespace (for an intialized repo) check that the latest `npm` is being used with `npm --version` (`node --version` should also be >22.0).
 
